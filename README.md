@@ -50,6 +50,30 @@ adiwoowp is currently extended with the following plugins
 * Google Drive
 * OneDrive
 
+### Development
+
+Want to contribute? Great!
+
+adiwoowp uses Gulp + Webpack for fast developing.
+Make a change in your file and instantanously see your updates!
+
+Open your favorite Terminal and run these commands.
+
+First Tab:
+```sh
+$ node app
+```
+
+Second Tab:
+```sh
+$ gulp watch
+```
+
+(optional) Third:
+```sh
+$ karma start
+```
+
 ### Todos
 
  - Write Tests
