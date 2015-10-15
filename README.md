@@ -4,6 +4,9 @@ wordpress woocommerce theme
 
 Thank you for choosing adiwoowp! Whether you’re a small business owner or a developer creating websites for clients, we’re hoping the theme will help you reach your goals. You must be excited about starting your new project, so let's just get on with it.
 
+### Version
+1.0
+
 ### Tech
 
 adiwoowp uses a number of open source projects to work properly:
