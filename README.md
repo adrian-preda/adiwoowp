@@ -49,6 +49,7 @@ adiwoowp is currently extended with the following plugins
 * Github
 * Google Drive
 * OneDrive
+* Subsidy
 
 ### Development
 
